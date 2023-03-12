@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/altansa/static/css/main.8be972cf.css",
+    "main.js": "/altansa/static/js/main.871562cd.js",
+    "index.html": "/altansa/index.html",
+    "main.8be972cf.css.map": "/altansa/static/css/main.8be972cf.css.map",
+    "main.871562cd.js.map": "/altansa/static/js/main.871562cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8be972cf.css",
+    "static/js/main.871562cd.js"
+  ]
+}

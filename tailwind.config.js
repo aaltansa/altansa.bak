@@ -4,8 +4,12 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        serat: "'Crimson Pro', serif",
-        crimsonPro: "'Montserrat', sans-serif",
+        crimsonPro: "'Crimson Pro', serif",
+        serat: "'Montserrat', sans-serif",
+      },
+      colors: {
+        biruGw: "#4F81BB",
+        biruTeuing: "rgba(198, 224, 255, 0.5)",
       },
     },
   },
