@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/altansa/static/css/main.3b318790.css",
-    "main.js": "/altansa/static/js/main.ddae9a1a.js",
+    "main.css": "/altansa/static/css/main.9070c166.css",
+    "main.js": "/altansa/static/js/main.e6047531.js",
     "static/media/wa.png": "/altansa/static/media/wa.22a945053aa010b80133.png",
     "static/media/section6.png": "/altansa/static/media/section6.8318a3735cb2d3deea44.png",
     "static/media/section4.png": "/altansa/static/media/section4.c07ba3e1869cc6fe66aa.png",
@@ -15,11 +15,11 @@
     "static/media/map.png": "/altansa/static/media/map.f3014e38c31a9e4ec0c7.png",
     "static/media/logo.png": "/altansa/static/media/logo.ec258ddfb71f268d9ca3.png",
     "index.html": "/altansa/index.html",
-    "main.3b318790.css.map": "/altansa/static/css/main.3b318790.css.map",
-    "main.ddae9a1a.js.map": "/altansa/static/js/main.ddae9a1a.js.map"
+    "main.9070c166.css.map": "/altansa/static/css/main.9070c166.css.map",
+    "main.e6047531.js.map": "/altansa/static/js/main.e6047531.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b318790.css",
-    "static/js/main.ddae9a1a.js"
+    "static/css/main.9070c166.css",
+    "static/js/main.e6047531.js"
   ]
 }
